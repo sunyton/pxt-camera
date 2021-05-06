@@ -601,7 +601,7 @@ class ArduCAM
 #endif
 
 #if (defined(OV2640_CAM) || defined(OV2640_MINI_2MP) || defined(OV2640_MINI_2MP_PLUS))
-	#include "ov2640_regs.h"
+	#include "OV2640_regs.h"
 #endif
 
 #if defined MT9D111A_CAM  || defined MT9D111B_CAM 	
