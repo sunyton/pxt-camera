@@ -98,7 +98,7 @@
 #include "ArduCAM.h"
 #include <Wire.h>
 #include <SPI.h>
-#include "ov2640_regs.h"
+#include "OV2640_regs.h"
 
 ArduCAM::ArduCAM()
 {
