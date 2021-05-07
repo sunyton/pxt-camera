@@ -5,7 +5,7 @@
 
 
 
-struct sensor_reg OV2640_QVGA[]  =
+const struct sensor_reg OV2640_QVGA[]  =
 {
 	{0xff, 0x0}, 
 	{0x2c, 0xff}, 
