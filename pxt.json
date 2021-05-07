@@ -13,7 +13,8 @@
         "main.ts",
         "ArduCAM.cpp",
         "ArduCAM.h",
-        "OV2640.cpp"
+        "OV2640.cpp",
+        "OV2640_regs.h"
     ],
     "testFiles": [
         "test.ts"
